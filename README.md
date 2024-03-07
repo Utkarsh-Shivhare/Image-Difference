@@ -12,7 +12,7 @@ Steps involved in finding the differnce:
 
 3.Finding the absolute difference between the images, which will give us the part of the images that are different from each other.
 
-4.Then calculated the coutour our the image and and marked wherever the area is greater than the threshold.
+4.Then calculated the coutour over the image and and marked wherever the area is greater than the threshold.
 
 5.Saved the final image.
 
