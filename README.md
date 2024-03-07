@@ -1,7 +1,10 @@
 # Image-Difference
 
 Steps involved in finding the differnce:
+
 1.Converting the PDF to image , Used pdf2image library of python for that.
+
+
 ![Differences1](https://github.com/Utkarsh-Shivhare/Image-Difference/assets/109977467/1ecee659-3c85-4569-a6d1-c11da1707d97)
 ![Differences2](https://github.com/Utkarsh-Shivhare/Image-Difference/assets/109977467/d29a0497-6e1b-4689-a841-f46e907ed3cf)
 2.Resiging and processing the image to grayscale.
