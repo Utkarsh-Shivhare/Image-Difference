@@ -4,9 +4,9 @@ Steps involved in finding the differnce:
 
 1.Converting the PDF to image , Used pdf2image library of python for that.
 
+![Differences1](https://github.com/Utkarsh-Shivhare/Image-Difference/assets/109977467/b0ce2cd5-f8af-476a-8e85-bd9d691491ec)
 
-![Differences1](https://github.com/Utkarsh-Shivhare/Image-Difference/assets/109977467/1ecee659-3c85-4569-a6d1-c11da1707d97)
-![Differences2](https://github.com/Utkarsh-Shivhare/Image-Difference/assets/109977467/d29a0497-6e1b-4689-a841-f46e907ed3cf)
+![Differences2](https://github.com/Utkarsh-Shivhare/Image-Difference/assets/109977467/c733e5cd-3d06-49e6-8718-3fa5fb32d866)
 
 2.Resiging and processing the image to grayscale.
 
