@@ -34,7 +34,7 @@ preprocessed_image2 = preprocess_image(images2[0])
 result_image = compare_images(preprocessed_image1, preprocessed_image2)
 
 # Save and/or display the result
-cv2.imwrite('result2.png', result_image)
+cv2.imwrite('result_image.png', result_image)
 cv2.imshow('Differences', result_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
